@@ -1,0 +1,847 @@
+19:16:39.676 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:16:42.775 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:16:42.777 [main] INFO   - com.rosgro.test.MainPageTest started
+19:17:20.626 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:17:22.221 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:17:22.224 [main] INFO   - com.rosgro.test.MainPageTest started
+19:20:19.395 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:20:21.082 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:20:21.085 [main] INFO   - com.rosgro.test.MainPageTest started
+19:27:30.643 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:27:32.289 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:27:32.292 [main] INFO   - com.rosgro.test.MainPageTest started
+19:27:38.259 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:31:23.661 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:31:25.187 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:31:27.061 [main] INFO   - com.rosgro.test.MainPageTest started
+19:32:06.168 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:32:07.677 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:32:20.906 [main] INFO   - com.rosgro.test.MainPageTest started
+19:32:51.605 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:32:53.244 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:32:55.400 [main] INFO   - com.rosgro.test.MainPageTest started
+19:33:00.513 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:33:20.522 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:33:21.958 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:33:24.026 [main] INFO   - com.rosgro.test.MainPageTest started
+19:33:30.825 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:34:19.820 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:34:21.281 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:34:23.049 [main] INFO   - com.rosgro.test.MainPageTest started
+19:34:48.263 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:34:49.755 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:34:51.522 [main] INFO   - com.rosgro.test.MainPageTest started
+19:37:49.504 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:37:50.973 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:37:53.382 [main] INFO   - com.rosgro.test.MainPageTest started
+19:37:58.894 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:38:17.051 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:38:18.766 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:38:20.558 [main] INFO   - com.rosgro.test.MainPageTest started
+19:40:23.800 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:40:25.377 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:40:27.388 [main] INFO   - com.rosgro.test.MainPageTest started
+19:40:32.452 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:41:18.003 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:41:19.532 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:41:21.664 [main] INFO   - com.rosgro.test.MainPageTest started
+19:41:27.175 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:42:43.061 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:42:44.552 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:42:46.904 [main] INFO   - com.rosgro.test.MainPageTest started
+19:42:53.017 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:44:46.345 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:44:47.815 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:44:50.305 [main] INFO   - com.rosgro.test.MainPageTest started
+19:46:23.609 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:46:25.086 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:46:27.248 [main] INFO   - com.rosgro.test.MainPageTest started
+19:46:46.272 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:46:48.163 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:46:49.803 [main] INFO   - com.rosgro.test.MainPageTest started
+19:47:22.566 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:47:24.001 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:47:27.174 [main] INFO   - com.rosgro.test.MainPageTest started
+19:48:46.576 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:48:48.044 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:48:49.749 [main] INFO   - com.rosgro.test.MainPageTest started
+19:49:34.588 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:49:36.141 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:49:38.047 [main] INFO   - com.rosgro.test.MainPageTest started
+19:50:16.671 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:50:18.307 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:50:20.202 [main] INFO   - com.rosgro.test.MainPageTest started
+19:51:07.420 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:51:08.918 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:51:11.015 [main] INFO   - com.rosgro.test.MainPageTest started
+19:51:16.375 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:51:46.694 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:51:48.185 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:51:49.829 [main] INFO   - com.rosgro.test.MainPageTest started
+19:51:54.790 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:52:32.254 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:52:33.723 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:52:35.748 [main] INFO   - com.rosgro.test.MainPageTest started
+19:52:40.422 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:52:58.235 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:52:59.719 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:53:02.349 [main] INFO   - com.rosgro.test.MainPageTest started
+19:53:07.353 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:53:54.228 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:53:55.709 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:53:57.266 [main] INFO   - com.rosgro.test.MainPageTest started
+19:54:02.152 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:54:44.787 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:54:46.271 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:54:48.567 [main] INFO   - com.rosgro.test.MainPageTest started
+19:54:52.710 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:55:29.575 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:55:31.226 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:55:33.581 [main] INFO   - com.rosgro.test.MainPageTest started
+19:55:38.228 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:57:31.684 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:57:33.334 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:57:37.126 [main] INFO   - com.rosgro.test.MainPageTest started
+19:57:41.944 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:58:13.205 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:58:15.072 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:58:16.909 [main] INFO   - com.rosgro.test.MainPageTest started
+19:58:22.550 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+19:59:19.913 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+19:59:21.369 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+19:59:23.762 [main] INFO   - com.rosgro.test.MainPageTest started
+19:59:28.886 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+20:00:24.191 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:00:25.676 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:00:27.277 [main] INFO   - com.rosgro.test.MainPageTest started
+20:00:41.084 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:00:42.581 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:00:45.141 [main] INFO   - com.rosgro.test.MainPageTest started
+20:01:26.567 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:01:28.063 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:01:30.094 [main] INFO   - com.rosgro.test.MainPageTest started
+20:02:01.105 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:02:02.575 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:02:05.671 [main] INFO   - com.rosgro.test.MainPageTest started
+20:02:39.461 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:02:40.974 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:02:42.998 [main] INFO   - com.rosgro.test.MainPageTest started
+20:05:10.675 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:05:12.120 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:05:14.112 [main] INFO   - com.rosgro.test.MainPageTest started
+20:58:05.316 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:58:07.629 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:58:11.411 [main] INFO   - com.rosgro.test.MainPageTest started
+20:59:53.777 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+20:59:55.712 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+20:59:57.420 [main] INFO   - com.rosgro.test.MainPageTest started
+21:00:02.956 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:02:01.508 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:02:02.987 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:02:05.000 [main] INFO   - com.rosgro.test.MainPageTest started
+21:02:25.972 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:02:27.474 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:02:29.422 [main] INFO   - com.rosgro.test.MainPageTest started
+21:02:56.257 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:02:57.733 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:02:59.749 [main] INFO   - com.rosgro.test.MainPageTest started
+21:03:36.707 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:03:38.180 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:03:40.134 [main] INFO   - com.rosgro.test.MainPageTest started
+21:03:54.042 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:03:55.519 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:03:57.113 [main] INFO   - com.rosgro.test.MainPageTest started
+21:04:21.982 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:04:23.441 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:04:25.429 [main] INFO   - com.rosgro.test.MainPageTest started
+21:04:59.920 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:05:01.489 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:05:03.415 [main] INFO   - com.rosgro.test.MainPageTest started
+21:05:31.318 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:05:32.780 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:05:34.980 [main] INFO   - com.rosgro.test.MainPageTest started
+21:05:40.801 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:06:45.646 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:06:47.129 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:06:49.806 [main] INFO   - com.rosgro.test.MainPageTest started
+21:06:55.436 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:07:17.306 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:07:18.760 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:07:20.726 [main] INFO   - com.rosgro.test.MainPageTest started
+21:07:26.576 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:07:51.792 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:07:53.283 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:07:55.649 [main] INFO   - com.rosgro.test.MainPageTest started
+21:08:00.728 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:08:34.001 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:08:35.455 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:08:37.444 [main] INFO   - com.rosgro.test.MainPageTest started
+21:08:42.495 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:09:14.175 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:09:16.138 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:09:18.160 [main] INFO   - com.rosgro.test.MainPageTest started
+21:09:23.596 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:10:03.798 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:10:05.282 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:10:07.379 [main] INFO   - com.rosgro.test.MainPageTest started
+21:21:39.588 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:21:42.454 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:21:48.540 [main] INFO   - com.rosgro.test.MainPageTest started
+21:29:42.642 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:29:44.344 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:29:46.644 [main] INFO   - com.rosgro.test.MainPageTest started
+21:36:06.816 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:36:08.556 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:36:10.990 [main] INFO   - com.rosgro.test.MainPageTest started
+21:39:36.610 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:39:38.339 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:39:40.565 [main] INFO   - com.rosgro.test.MainPageTest started
+21:39:43.742 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:40:40.915 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:40:43.243 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:40:45.325 [main] INFO   - com.rosgro.test.MainPageTest started
+21:40:48.665 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:42:09.164 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:42:10.772 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:42:12.854 [main] INFO   - com.rosgro.test.MainPageTest started
+21:47:35.421 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:47:37.020 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:47:39.668 [main] INFO   - com.rosgro.test.MainPageTest started
+21:47:46.912 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:47:48.562 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:47:50.764 [main] INFO   - com.rosgro.test.MainPageTest started
+21:48:38.093 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:48:39.935 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:48:42.285 [main] INFO   - com.rosgro.test.MainPageTest started
+21:48:44.366 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:49:38.810 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:49:40.450 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:49:42.206 [main] INFO   - com.rosgro.test.MainPageTest started
+21:49:44.183 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:50:54.860 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:50:56.503 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:50:58.709 [main] INFO   - com.rosgro.test.MainPageTest started
+21:51:01.033 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:51:42.045 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:51:43.687 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:51:45.661 [main] INFO   - com.rosgro.test.MainPageTest started
+21:51:47.571 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:52:28.673 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:52:30.255 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:52:32.370 [main] INFO   - com.rosgro.test.MainPageTest started
+21:52:34.628 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:54:10.713 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:54:12.322 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:54:14.252 [main] INFO   - com.rosgro.test.MainPageTest started
+21:54:16.463 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+21:55:13.020 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:55:14.561 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:55:16.539 [main] INFO   - com.rosgro.test.MainPageTest started
+21:55:18.732 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:08:23.572 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:08:25.204 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:08:27.563 [main] INFO   - com.rosgro.test.MainPageTest started
+22:08:29.148 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:09:31.772 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:09:33.345 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:09:34.827 [main] INFO   - com.rosgro.test.MainPageTest started
+22:09:36.129 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:09:48.481 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:09:50.143 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:09:52.240 [main] INFO   - com.rosgro.test.MainPageTest started
+22:09:53.484 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:11:33.661 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:11:35.276 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:11:37.224 [main] INFO   - com.rosgro.test.MainPageTest started
+22:11:38.761 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:12:34.206 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:12:36.078 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:12:37.913 [main] INFO   - com.rosgro.test.MainPageTest started
+22:12:39.776 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:12:55.233 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:12:56.830 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:12:58.929 [main] INFO   - com.rosgro.test.MainPageTest started
+22:13:29.540 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:13:31.186 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:13:33.273 [main] INFO   - com.rosgro.test.MainPageTest started
+22:13:34.521 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:13:50.739 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:13:52.355 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:13:53.786 [main] INFO   - com.rosgro.test.MainPageTest started
+22:13:55.080 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:14:30.038 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:14:31.610 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:14:33.847 [main] INFO   - com.rosgro.test.MainPageTest started
+22:14:35.270 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:14:49.340 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:14:51.068 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:14:52.640 [main] INFO   - com.rosgro.test.MainPageTest started
+22:20:59.645 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:21:01.273 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:21:03.382 [main] INFO   - com.rosgro.test.MainPageTest started
+22:21:18.434 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:21:20.028 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:21:22.211 [main] INFO   - com.rosgro.test.MainPageTest started
+22:21:23.493 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:22:04.555 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:22:06.614 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:22:09.928 [main] INFO   - com.rosgro.test.MainPageTest started
+22:22:11.606 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:23:01.032 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:23:02.963 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:23:04.502 [main] INFO   - com.rosgro.test.MainPageTest started
+22:23:06.068 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:23:21.424 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:23:23.127 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:23:24.907 [main] INFO   - com.rosgro.test.MainPageTest started
+22:23:26.193 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:23:50.956 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:23:52.598 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:23:54.543 [main] INFO   - com.rosgro.test.MainPageTest started
+22:23:56.000 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:24:08.126 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:24:09.923 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:24:12.016 [main] INFO   - com.rosgro.test.MainPageTest started
+22:24:13.264 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:25:31.178 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:25:33.052 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:25:35.713 [main] INFO   - com.rosgro.test.MainPageTest started
+22:26:01.194 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:26:02.782 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:26:04.511 [main] INFO   - com.rosgro.test.MainPageTest started
+22:26:32.679 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:26:34.382 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:26:36.323 [main] INFO   - com.rosgro.test.MainPageTest started
+22:44:06.429 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:44:08.003 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:44:10.080 [main] INFO   - com.rosgro.test.MainPageTest started
+22:58:15.559 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:58:17.183 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:58:19.362 [main] INFO   - com.rosgro.test.MainPageTest started
+22:58:22.190 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:59:36.474 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:59:38.071 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:59:40.000 [main] INFO   - com.rosgro.test.MainPageTest started
+22:59:42.820 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:06:07.994 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:06:09.607 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:06:11.818 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:14.886 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:07:54.696 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:07:56.402 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:07:58.107 [main] INFO   - com.rosgro.test.MainPageTest started
+23:08:01.459 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:08:11.559 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:08:13.307 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:08:15.015 [main] INFO   - com.rosgro.test.MainPageTest started
+23:08:18.422 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:08:55.635 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:08:57.283 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:08:59.114 [main] INFO   - com.rosgro.test.MainPageTest started
+23:09:01.997 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:10:05.341 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:10:07.130 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:10:08.930 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:11.263 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:10:34.725 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:10:36.323 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:10:37.983 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:40.069 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:10:52.951 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:10:54.545 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:10:56.393 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:58.272 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:11:13.942 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:11:15.544 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:11:17.767 [main] INFO   - com.rosgro.test.MainPageTest started
+23:14:31.826 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:14:33.419 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:14:35.781 [main] INFO   - com.rosgro.test.MainPageTest started
+23:14:37.447 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:14:44.897 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:15:07.878 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:15:09.487 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:15:11.589 [main] INFO   - com.rosgro.test.MainPageTest started
+23:15:19.203 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:15:20.807 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:15:22.827 [main] INFO   - com.rosgro.test.MainPageTest started
+23:16:30.238 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:16:31.798 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:16:34.506 [main] INFO   - com.rosgro.test.MainPageTest started
+23:16:35.496 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:16:57.178 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:16:59.090 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:17:01.541 [main] INFO   - com.rosgro.test.MainPageTest started
+23:17:02.459 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:17:45.256 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:17:46.915 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:17:49.163 [main] INFO   - com.rosgro.test.MainPageTest started
+23:17:50.225 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:18:56.329 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:18:58.295 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:19:00.395 [main] INFO   - com.rosgro.test.MainPageTest started
+23:19:01.415 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:26:08.835 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:26:10.869 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:26:13.847 [main] INFO   - com.rosgro.test.MainPageTest started
+23:26:15.866 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:27:14.740 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:27:16.361 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:27:18.362 [main] INFO   - com.rosgro.test.MainPageTest started
+23:27:19.386 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:27:37.453 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:27:39.037 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:27:41.376 [main] INFO   - com.rosgro.test.MainPageTest started
+23:28:56.820 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:28:58.386 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:29:01.605 [main] INFO   - com.rosgro.test.MainPageTest started
+23:29:15.120 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:29:17.040 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:29:19.349 [main] INFO   - com.rosgro.test.MainPageTest started
+23:29:54.488 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:29:56.060 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:29:58.113 [main] INFO   - com.rosgro.test.MainPageTest started
+23:29:59.147 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:30:36.836 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:30:38.452 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:30:39.984 [main] INFO   - com.rosgro.test.MainPageTest started
+23:30:41.038 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:30:56.094 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:30:57.924 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:30:59.592 [main] INFO   - com.rosgro.test.MainPageTest started
+23:31:00.863 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:31:27.832 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:31:29.563 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:31:31.624 [main] INFO   - com.rosgro.test.MainPageTest started
+23:31:32.699 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:32:44.548 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:32:46.127 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:32:48.257 [main] INFO   - com.rosgro.test.MainPageTest started
+23:32:50.348 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:33:16.734 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:33:18.329 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:33:20.374 [main] INFO   - com.rosgro.test.MainPageTest started
+23:33:21.410 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:34:54.333 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:34:56.192 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:34:58.155 [main] INFO   - com.rosgro.test.MainPageTest started
+23:38:55.119 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:38:56.768 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:38:58.897 [main] INFO   - com.rosgro.test.MainPageTest started
+23:38:59.905 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:42:18.630 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:42:21.028 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:42:23.485 [main] INFO   - com.rosgro.test.MainPageTest started
+23:42:24.529 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:42:45.402 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:42:47.155 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:42:58.970 [main] INFO   - com.rosgro.test.MainPageTest started
+23:49:29.759 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:49:31.445 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:49:33.752 [main] INFO   - com.rosgro.test.MainPageTest started
+23:49:35.886 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:50:20.201 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:50:21.990 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:50:24.154 [main] INFO   - com.rosgro.test.MainPageTest started
+23:50:25.220 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:50:41.793 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:50:43.484 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:50:45.269 [main] INFO   - com.rosgro.test.MainPageTest started
+23:50:47.310 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:51:08.532 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:51:10.113 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:51:12.485 [main] INFO   - com.rosgro.test.MainPageTest started
+23:51:13.486 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:52:05.595 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:52:07.169 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:52:09.587 [main] INFO   - com.rosgro.test.MainPageTest started
+23:52:10.652 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:52:49.357 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:52:50.969 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:52:53.243 [main] INFO   - com.rosgro.test.MainPageTest started
+23:52:55.448 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:56:56.399 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:56:58.331 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:57:00.589 [main] INFO   - com.rosgro.test.MainPageTest started
+23:58:36.090 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:58:37.867 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:58:40.160 [main] INFO   - com.rosgro.test.MainPageTest started
+23:58:41.447 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:59:23.572 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:59:25.519 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:59:27.815 [main] INFO   - com.rosgro.test.MainPageTest started
+23:59:28.863 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:00:24.294 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:00:25.846 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:00:27.660 [main] INFO   - com.rosgro.test.MainPageTest started
+00:00:28.821 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:01:27.523 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:01:29.266 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:01:31.645 [main] INFO   - com.rosgro.test.MainPageTest started
+00:01:32.727 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:06:21.978 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:06:23.589 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:06:25.744 [main] INFO   - com.rosgro.test.MainPageTest started
+00:06:26.944 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:09:07.591 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:09:09.312 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:09:11.519 [main] INFO   - com.rosgro.test.MainPageTest started
+00:09:12.547 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:09:40.410 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:09:42.007 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:09:44.128 [main] INFO   - com.rosgro.test.MainPageTest started
+00:09:45.183 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:12:04.662 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:12:06.525 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:12:08.744 [main] INFO   - com.rosgro.test.MainPageTest started
+00:12:09.799 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:12:59.638 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:13:01.525 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:13:03.722 [main] INFO   - com.rosgro.test.MainPageTest started
+00:13:04.776 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:13:38.860 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:13:40.482 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:13:42.445 [main] INFO   - com.rosgro.test.MainPageTest started
+00:13:43.521 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:14:02.533 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:14:04.131 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:14:05.862 [main] INFO   - com.rosgro.test.MainPageTest started
+00:14:06.974 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:16:42.106 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:16:43.734 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:16:46.547 [main] INFO   - com.rosgro.test.MainPageTest started
+00:17:46.783 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:17:48.640 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:17:51.023 [main] INFO   - com.rosgro.test.MainPageTest started
+00:17:52.093 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:24:05.470 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:24:07.560 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:24:09.385 [main] INFO   - com.rosgro.test.MainPageTest started
+00:26:13.843 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:26:16.014 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:26:19.166 [main] INFO   - com.rosgro.test.MainPageTest started
+00:26:20.206 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:26:31.859 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:26:33.614 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:26:35.226 [main] INFO   - com.rosgro.test.MainPageTest started
+00:26:36.259 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:28:41.004 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:28:42.559 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:28:44.780 [main] INFO   - com.rosgro.test.MainPageTest started
+00:28:45.935 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:39:47.097 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:39:48.752 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:39:50.782 [main] INFO   - com.rosgro.test.MainPageTest started
+00:39:51.817 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:41:32.539 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:41:34.135 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:41:36.402 [main] INFO   - com.rosgro.test.MainPageTest started
+00:41:37.460 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:42:20.457 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:42:22.057 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:42:23.757 [main] INFO   - com.rosgro.test.MainPageTest started
+00:42:24.824 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:42:51.629 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:42:53.218 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:42:55.121 [main] INFO   - com.rosgro.test.MainPageTest started
+00:44:27.320 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:44:29.046 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:44:30.806 [main] INFO   - com.rosgro.test.MainPageTest started
+00:44:49.553 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:44:51.176 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:44:53.069 [main] INFO   - com.rosgro.test.MainPageTest started
+00:48:36.645 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:48:38.252 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:48:40.454 [main] INFO   - com.rosgro.test.MainPageTest started
+00:48:41.286 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+00:49:18.194 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+00:49:19.782 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+00:49:21.337 [main] INFO   - com.rosgro.test.MainPageTest started
+21:56:48.542 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:56:51.320 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:57:04.904 [main] INFO   - com.rosgro.test.MainPageTest started
+21:57:32.942 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:57:34.721 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:57:47.852 [main] INFO   - com.rosgro.test.MainPageTest started
+21:59:09.158 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+21:59:10.676 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+21:59:15.070 [main] INFO   - com.rosgro.test.MainPageTest started
+21:59:17.605 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:00:44.697 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:00:46.367 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:00:50.089 [main] INFO   - com.rosgro.test.MainPageTest started
+22:03:05.739 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:03:07.338 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:03:10.431 [main] INFO   - com.rosgro.test.MainPageTest started
+22:03:11.538 [main] INFO   - com.rosgro.test.MainPageTest started
+22:03:27.783 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:03:29.393 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:03:32.555 [main] INFO   - com.rosgro.test.MainPageTest started
+22:09:13.765 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:09:15.654 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:09:18.885 [main] INFO   - com.rosgro.test.MainPageTest started
+22:10:27.261 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:10:28.839 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:10:32.111 [main] INFO   - com.rosgro.test.MainPageTest started
+22:10:47.626 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:10:49.232 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:10:52.683 [main] INFO   - com.rosgro.test.MainPageTest started
+22:10:55.696 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:11:24.786 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:11:26.590 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:11:30.022 [main] INFO   - com.rosgro.test.MainPageTest started
+22:11:32.932 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:12:09.823 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:12:11.365 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:12:14.770 [main] INFO   - com.rosgro.test.MainPageTest started
+22:12:17.868 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:13:01.619 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:13:03.216 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:13:07.830 [main] INFO   - com.rosgro.test.MainPageTest started
+22:13:10.585 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:13:53.474 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:13:55.039 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:13:59.162 [main] INFO   - com.rosgro.test.MainPageTest started
+22:14:12.539 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:14:14.115 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:14:17.544 [main] INFO   - com.rosgro.test.MainPageTest started
+22:15:50.988 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:15:53.024 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:15:54.911 [main] INFO   - com.rosgro.test.MainPageTest started
+22:15:58.758 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:16:35.567 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:16:37.467 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:16:40.330 [main] INFO   - com.rosgro.test.MainPageTest started
+22:16:44.284 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:17:02.397 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:17:05.178 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:17:08.569 [main] INFO   - com.rosgro.test.MainPageTest started
+22:17:11.944 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:19:49.417 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:19:51.053 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:19:54.212 [main] INFO   - com.rosgro.test.MainPageTest started
+22:19:57.693 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:21:44.885 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:21:46.818 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:21:50.373 [main] INFO   - com.rosgro.test.MainPageTest started
+22:21:54.186 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:22:55.123 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:22:56.858 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:23:00.699 [main] INFO   - com.rosgro.test.MainPageTest started
+22:23:04.112 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:24:16.111 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:24:17.864 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:24:22.715 [main] INFO   - com.rosgro.test.MainPageTest started
+22:24:26.423 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:25:32.173 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:25:33.788 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:25:36.980 [main] INFO   - com.rosgro.test.MainPageTest started
+22:25:41.796 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:28:01.581 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:28:03.169 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:28:06.427 [main] INFO   - com.rosgro.test.MainPageTest started
+22:28:09.779 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:31:16.492 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:31:18.093 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:31:21.096 [main] INFO   - com.rosgro.test.MainPageTest started
+22:31:24.405 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:31:39.422 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:31:41.044 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:31:44.365 [main] INFO   - com.rosgro.test.MainPageTest started
+22:31:47.537 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:32:13.148 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:32:14.952 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:32:17.816 [main] INFO   - com.rosgro.test.MainPageTest started
+22:32:20.819 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:33:46.562 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:33:48.167 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:33:51.322 [main] INFO   - com.rosgro.test.MainPageTest started
+22:33:55.349 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:38:41.317 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:38:42.933 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:38:45.653 [main] INFO   - com.rosgro.test.MainPageTest started
+22:38:48.966 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:39:07.655 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:39:09.292 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:39:12.415 [main] INFO   - com.rosgro.test.MainPageTest started
+22:39:15.378 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:40:58.111 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:40:59.765 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:41:02.792 [main] INFO   - com.rosgro.test.MainPageTest started
+22:41:06.363 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:41:47.710 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:41:49.367 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:41:52.308 [main] INFO   - com.rosgro.test.MainPageTest started
+22:41:56.080 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:42:16.232 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:42:18.061 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:42:20.784 [main] INFO   - com.rosgro.test.MainPageTest started
+22:42:24.240 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:42:54.114 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:42:55.925 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:42:58.556 [main] INFO   - com.rosgro.test.MainPageTest started
+22:43:01.514 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:43:23.044 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:43:24.921 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:43:27.585 [main] INFO   - com.rosgro.test.MainPageTest started
+22:48:11.760 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:48:13.372 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:48:16.672 [main] INFO   - com.rosgro.test.MainPageTest started
+22:48:17.758 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:48:43.154 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:48:45.042 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:48:48.097 [main] INFO   - com.rosgro.test.MainPageTest started
+22:48:51.339 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:50:29.320 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:50:30.976 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:50:33.984 [main] INFO   - com.rosgro.test.MainPageTest started
+22:52:20.892 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:52:22.470 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:52:25.760 [main] INFO   - com.rosgro.test.MainPageTest started
+22:52:29.516 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:53:36.467 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:53:38.097 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:53:41.857 [main] INFO   - com.rosgro.test.MainPageTest started
+22:53:44.663 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+22:54:00.529 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:54:02.101 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:54:04.649 [main] INFO   - com.rosgro.test.MainPageTest started
+22:55:21.843 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:55:23.452 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:55:26.519 [main] INFO   - com.rosgro.test.MainPageTest started
+22:55:42.578 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:55:44.203 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:55:47.008 [main] INFO   - com.rosgro.test.MainPageTest started
+22:56:07.736 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:56:09.345 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:56:11.968 [main] INFO   - com.rosgro.test.MainPageTest started
+22:58:33.913 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:58:36.373 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:58:39.509 [main] INFO   - com.rosgro.test.MainPageTest started
+22:59:22.369 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:59:24.013 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:59:27.018 [main] INFO   - com.rosgro.test.MainPageTest started
+22:59:30.633 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:00:12.118 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:00:13.902 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:00:17.258 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:14.718 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:04:16.334 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:04:20.858 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:51.200 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:06:52.982 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:06:55.761 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:57.791 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:08:12.935 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:08:14.543 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:08:17.430 [main] INFO   - com.rosgro.test.MainPageTest started
+23:09:20.306 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:09:21.971 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:09:24.884 [main] INFO   - com.rosgro.test.MainPageTest started
+23:09:27.104 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:09:48.485 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:09:50.053 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:09:52.629 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:04.474 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:10:06.113 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:10:08.938 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:12.464 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:15.201 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:18.437 [main] INFO   - com.rosgro.test.MainPageTest started
+23:10:20.505 [main] INFO   - com.rosgro.test.MainPageTest started
+16:42:24.729 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:42:27.569 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:42:30.866 [main] INFO   - com.rosgro.test.MainPageTest started
+16:43:46.590 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:43:48.256 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:43:51.326 [main] INFO   - com.rosgro.test.MainPageTest started
+16:45:42.980 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:45:44.817 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:45:47.842 [main] INFO   - com.rosgro.test.MainPageTest started
+16:49:37.416 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:49:39.225 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:49:43.228 [main] INFO   - com.rosgro.test.MainPageTest started
+16:49:44.442 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+16:51:00.677 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:51:02.742 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:51:10.298 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:51:12.026 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:51:15.881 [main] INFO   - com.rosgro.test.MainPageTest started
+16:51:16.879 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+16:53:58.737 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:54:00.326 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:54:03.544 [main] INFO   - com.rosgro.test.MainPageTest started
+16:54:04.463 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+16:56:16.918 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:56:18.571 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:56:22.574 [main] INFO   - com.rosgro.test.MainPageTest started
+16:56:23.413 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+16:58:35.612 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:58:37.214 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:58:41.055 [main] INFO   - com.rosgro.test.MainPageTest started
+16:58:41.984 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+16:59:13.032 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+16:59:14.645 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+16:59:18.060 [main] INFO   - com.rosgro.test.MainPageTest started
+22:42:08.716 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:42:11.435 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:42:17.753 [main] INFO   - com.rosgro.test.MainPageTest started
+22:43:07.133 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:43:08.671 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:43:12.785 [main] INFO   - com.rosgro.test.MainPageTest started
+22:46:40.542 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+22:46:42.034 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+22:46:45.428 [main] INFO   - com.rosgro.test.MainPageTest started
+23:01:34.415 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:01:35.998 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:01:41.010 [main] INFO   - com.rosgro.test.MainPageTest started
+23:01:45.020 [main] INFO   - com.rosgro.test.MainPageTest started
+23:01:48.790 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:01:48.939 [main] INFO   - com.rosgro.test.MainPageTest started
+23:01:51.078 [main] INFO   - com.rosgro.test.MainPageTest started
+23:02:10.524 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:02:11.992 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:02:15.935 [main] INFO   - com.rosgro.test.MainPageTest started
+23:03:18.038 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:03:18.046 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:03:29.850 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:03:31.321 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:04:00.384 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:04:00.385 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:04:00.387 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:00.387 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:00.388 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:00.388 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:11.620 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:04:13.146 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:04:18.727 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:04:18.727 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:04:18.729 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:18.729 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:18.730 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:18.730 [main] INFO   - com.rosgro.test.MainPageTest started
+23:04:26.168 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:04:27.601 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:05:10.880 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:05:20.048 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:05:35.880 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:05:37.392 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:05:42.694 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:05:47.442 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:05:50.470 [main] INFO   - com.rosgro.test.MainPageTest started
+23:05:50.473 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:05:50.582 [main] INFO   - com.rosgro.test.MainPageTest started
+23:05:50.583 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:05:50.703 [main] INFO   - com.rosgro.test.MainPageTest started
+23:05:50.704 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:05:50.875 [main] INFO   - com.rosgro.test.MainPageTest started
+23:05:50.876 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:06:34.622 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+23:06:36.069 [main] INFO  com.rosgro.driver.DriverManager - WebDriver has started
+23:06:40.364 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:44.980 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:47.751 [main] WARN   - Test com.rosgro.test.MainPageTest failed
+23:06:47.899 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:49.768 [main] INFO   - com.rosgro.test.MainPageTest started
+23:06:51.645 [main] INFO   - com.rosgro.test.ProductPageTest started
+23:06:55.258 [main] INFO   - com.rosgro.test.ProductPageTest started
