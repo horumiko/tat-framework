@@ -16,7 +16,7 @@ public class MainPage extends AbstractPage {
   public static final String PRODUCT_TILE = "product-tile";
   public static final String DECLINE_COOKIE = "tracking-consent-decline";
   public static final String THUMB_LINK = "thumb-link";
-  public static final String TITLE = "product-tile";
+  public static final String TITLE = "title";
   public static final String HREF = "href";
   public static final String PRODUCT_PRICING = "product-pricing";
   public static final String PRODUCT_PRICE = "data-product-price";
