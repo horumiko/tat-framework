@@ -3,6 +3,7 @@ package com.rosgro.util;
 import com.rosgro.driver.DriverManager;
 import java.io.File;
 import java.io.IOException;
+import java.net.MalformedURLException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import org.apache.commons.io.FileUtils;
@@ -30,7 +31,12 @@ public class TestListener implements ITestListener {
     SimpleDateFormat formatter = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
     String methodName = result.getName();
     if (!result.isSuccess()) {
-      File scrFile = ((TakesScreenshot) DriverManager.getDriver()).getScreenshotAs(OutputType.FILE);
+      File scrFile = null;
+      try {
+        scrFile = ((TakesScreenshot) DriverManager.getDriver()).getScreenshotAs(OutputType.FILE);
+      } catch (MalformedURLException e) {
+        throw new RuntimeException(e);
+      }
       try {
         String reportDirectory = "./src/test/resources/";
         File destFile = new File(

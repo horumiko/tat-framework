@@ -14,6 +14,8 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Listeners;
 
+import java.net.MalformedURLException;
+
 @Listeners({TestListener.class})
 public abstract class AbstractTest {
 
@@ -21,14 +23,14 @@ public abstract class AbstractTest {
   protected PropertyLoader propertyLoader;
 
   @BeforeSuite
-  public void setupSuite(){
+  public void setupSuite() throws MalformedURLException {
     this.driver = DriverManager.getDriver();
     this.propertyLoader = PropertyLoader.getPropertyLoader();
     declineCookies();
   }
 
   @BeforeClass
-  public void setupBrowser(){
+  public void setupBrowser() throws MalformedURLException {
     this.driver = DriverManager.getDriver();
     this.propertyLoader = PropertyLoader.getPropertyLoader();
   }
