@@ -878,3 +878,19 @@
 17:39:57.598 [main] INFO   - com.rosgro.test.MainPageTest started
 17:40:14.457 [main] INFO   - com.rosgro.test.ProductPageTest started
 17:40:21.762 [main] INFO   - com.rosgro.test.ProductPageTest started
+18:46:19.553 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+18:46:19.577 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:19.578 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:19.579 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:19.580 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:19.583 [main] INFO   - com.rosgro.test.ProductPageTest started
+18:46:19.584 [main] INFO   - com.rosgro.test.ProductPageTest started
+18:46:19.585 [main] INFO   - com.rosgro.test.ProductPageTest started
+18:46:26.565 [main] INFO  com.rosgro.util.PropertyLoader - Properties was successfully initialized
+18:46:26.587 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:26.588 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:26.589 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:26.590 [main] INFO   - com.rosgro.test.MainPageTest started
+18:46:26.593 [main] INFO   - com.rosgro.test.ProductPageTest started
+18:46:26.594 [main] INFO   - com.rosgro.test.ProductPageTest started
+18:46:26.595 [main] INFO   - com.rosgro.test.ProductPageTest started
