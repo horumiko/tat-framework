@@ -15,16 +15,16 @@ public class ProductPageTest extends AbstractTest {
 
     @Test
     public void addToCart() {
-        //Product productPageSneaker = new ProductPage(driver, PRODUCT_PAGE).addToCart().createProduct();
-        //Product cartPageSneaker = new CartPage(driver, CART_PAGE).findProduct().get(0);
-        //assertThat(productPageSneaker, equalTo(cartPageSneaker));
+        Product productPageSneaker = new ProductPage(driver, PRODUCT_PAGE).addToCart().createProduct();
+        Product cartPageSneaker = new CartPage(driver, CART_PAGE).findProduct().get(0);
+        assertThat(productPageSneaker, equalTo(cartPageSneaker));
     }
     @Test
     public void removeFromCart() {
-        //final String emptyBagText = "Your Bag (0)";
-        //new ProductPage(driver, PRODUCT_PAGE).addToCart();
-        //String currentBagText = new CartPage(driver, CART_PAGE).deleteFromCart().findCurrentCartText();
-        //assertThat(currentBagText, equalTo(emptyBagText));
+        final String emptyBagText = "Your Bag (0)";
+        new ProductPage(driver, PRODUCT_PAGE).addToCart();
+        String currentBagText = new CartPage(driver, CART_PAGE).deleteFromCart().findCurrentCartText();
+        assertThat(currentBagText, equalTo(emptyBagText));
     }
     @Test
     public void addManyToCart() {
