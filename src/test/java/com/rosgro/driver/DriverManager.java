@@ -28,7 +28,7 @@ public class DriverManager {
 
   public static WebDriver getDriver() throws MalformedURLException {
     if (webDriver == null) {
-      switch (propertyLoader.getProperty("browser")) {
+      switch (System.getProperty("browser")) {
         case "firefox": {
           webDriver = new FirefoxDriver();
           WebDriverManager.firefoxdriver().setup();
@@ -59,7 +59,7 @@ public class DriverManager {
   }
 
   public static void closeDriver(WebDriver driver) {
-//    driver.quit();
-//    driver = null;
+    driver.quit();
+    driver = null;
   }
 }
